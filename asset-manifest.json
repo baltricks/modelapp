@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modelapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/modelapp/static/js/main.96058096.chunk.js",
+    "main.js.map": "/modelapp/static/js/main.96058096.chunk.js.map",
+    "runtime-main.js": "/modelapp/static/js/runtime-main.caebaca3.js",
+    "runtime-main.js.map": "/modelapp/static/js/runtime-main.caebaca3.js.map",
+    "static/js/2.4b2288d0.chunk.js": "/modelapp/static/js/2.4b2288d0.chunk.js",
+    "static/js/2.4b2288d0.chunk.js.map": "/modelapp/static/js/2.4b2288d0.chunk.js.map",
+    "static/js/3.e800922f.chunk.js": "/modelapp/static/js/3.e800922f.chunk.js",
+    "static/js/3.e800922f.chunk.js.map": "/modelapp/static/js/3.e800922f.chunk.js.map",
+    "index.html": "/modelapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/modelapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4b2288d0.chunk.js.LICENSE.txt": "/modelapp/static/js/2.4b2288d0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/modelapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caebaca3.js",
+    "static/js/2.4b2288d0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.96058096.chunk.js"
+  ]
+}
